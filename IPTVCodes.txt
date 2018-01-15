@@ -1,0 +1,14 @@
+http://wecandothis.gq:5454/get.php?username=bonnar&password=bonnar&type=m3u
+Real Url: wecandothis.gq:5454     Status: Active    Created: 9/21/2017 12:38:41 PM     Expires: 9/22/2018 12:41:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://wecandothis.gq:5454/get.php?username=bradley&password=bradley&type=m3u
+Real Url: wecandothis.gq:5454     Status: Active    Created: 10/4/2016 4:16:42 PM     Expires: 9/22/2018 12:41:00 PM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://wecandothis.gq:5454/get.php?username=du&password=du&type=m3u
+Real Url: wecandothis.gq:5454     Status: Active    Created: 5/9/2017 8:55:47 AM     Expires: 5/9/2018 8:55:47 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://wecandothis.gq:5454/get.php?username=henry&password=henry&type=m3u
+Real Url: wecandothis.gq:5454     Status: Active    Created: 11/13/2017 11:00:00 PM     Expires: 5/20/2018 4:37:00 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://wecandothis.gq:5454/get.php?username=aa&password=aa&type=m3u
+Real Url: wecandothis.gq:5454     Status: Active    Created: 5/3/2017 11:33:09 AM     Expires: 5/3/2018 11:33:09 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
